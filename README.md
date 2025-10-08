@@ -7,4 +7,4 @@ It involves data cleaning, transformation, pivot table analysis, and dashboard v
 The goal is to identify key factors that drive bike purchases such as income, gender, marital status, region, and commute distance.
 
 ##  Dataset
-- (# href= "https://github.com/Allan-Kip/Data-Analysis-Dashboard/blob/main/Bike_Sales_Dashboard.xlsx")Dataset</a>
+- (#  "https://github.com/Allan-Kip/Data-Analysis-Dashboard/blob/main/Bike_Sales_Dashboard.xlsx")Dataset</a>
