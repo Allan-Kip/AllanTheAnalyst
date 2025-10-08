@@ -37,7 +37,7 @@ Interactive Excel Dashboard includes:
 - Males purchased slightly more bikes than females.  
 - Customers with short commutes (0–5 miles) were the main buyers.  
 - The **Europe** region recorded the highest number of purchases.
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 <img width="582" height="455" alt="Screenshot 2025-10-08 153214" src="https://github.com/user-attachments/assets/934be322-dba0-46a2-9182-787ba2207c46" />
 ##  Tools Used
 - **Microsoft Excel**
